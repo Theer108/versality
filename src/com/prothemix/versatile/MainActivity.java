@@ -1,5 +1,9 @@
 package com.prothemix.versatile;
 
+/**
+ * Here will be license.. someday
+ */
+
 import android.annotation.TargetApi;
 import android.app.Activity;
 import android.os.Build;
